@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><scraper framework="1,1" date="2011-01-18" name="Kinobox" content="movies" thumb="icon.png" language="cs">
+<?xml version="1.0" encoding="utf-8"?><scraper framework="1,1" date="2011-01-18">
 	<CreateSearchUrl dest="3">
 		<RegExp input="$$1" output="&lt;url&gt;http://www.kinobox.cz/vyhledavani?filmy=1&amp;amp;t=\1&lt;/url&gt;" dest="3">
 			<expression />

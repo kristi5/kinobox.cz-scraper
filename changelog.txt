@@ -1,3 +1,9 @@
+2011-02-01 kristi5 1.01
+
+  * pridana licence GPL
+  * upravene logo dle pravidel XBMC
+
+
 2011-18-01  kristi5 1.0
 
  * zakladni funkcionalita stahovace
